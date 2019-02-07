@@ -1,6 +1,7 @@
 ---
 title: Proposal Template
 layout: page
+permalink: /instructions/
 ---
 
 If you want to apply for the Google Summer of Code as a student for umikry,
